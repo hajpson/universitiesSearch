@@ -1,0 +1,1 @@
+export const api_base = 'http://universities.hipolabs.com/search?name='
